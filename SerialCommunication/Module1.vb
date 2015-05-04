@@ -10,7 +10,7 @@
         myPort.Open()
         Console.WriteLine("Port opened.")
         Console.ReadLine()
-        Console.WriteLine("User stop.")
+        Console.WriteLine("User stopppppp.")
         Console.ReadLine()
 
         fileStream.Write(vbNewLine)
