@@ -8,7 +8,7 @@
 
 
         myPort.Open()
-        Console.WriteLine("Port opened.")
+        Console.WriteLine("Port opened test tes tes test.")
         Console.ReadLine()
         Console.WriteLine("User stopppppp.")
         Console.ReadLine()
